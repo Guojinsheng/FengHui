@@ -1,14 +1,14 @@
-# Python1807爱鲜蜂
+# 蜂汇
 ## 一、环境说明
 - python3.5
 
 ## 二、代码获取
 ```
 # SSH方式
-git clone git@github.com:iphone3/Python1807AXF.git
+git clone git@github.com:Guojinsheng/FengHui.git
 
 # HTTP方式
-git clone https://github.com/iphone3/Python1807AXF.git
+git clone https://github.com/Guojinsheng/FengHui.git
 ```
 
 ## 三、安装项目依赖
@@ -23,7 +23,7 @@ pip install -r requirements.txt
 python manage.py runserver
 
 # 浏览器中输入 【移动端项目，所以显示是小屏幕】
-127.0.0.1:8000/axf/
+127.0.0.1:8000/FH/
 ```
 
 ## 五、效果图
@@ -45,4 +45,3 @@ python manage.py runserver
 
 
 
-### 注: 本文是Django学习，仅供参考!
